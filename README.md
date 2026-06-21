@@ -93,4 +93,4 @@ Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn. Notebook developed i
 
 I build practical ML solutions for prediction problems faced by small and mid-sized businesses — customer churn, demand forecasting, lead scoring, classification of unstructured text. Open to project work.
 
-Contact: [thaixingyun790@gmail.com] · [https://www.linkedin.com/in/shawn-liew-2ab65a80/]
+**Contact:** thaixingyun790@gmail.com · [LinkedIn](https://www.linkedin.com/in/shawn-liew-2ab65a80/)
